@@ -1,72 +1,72 @@
 # Bright Data's LinkedIn Proxies
 
-[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.com/solutions/linkedin-proxy) 
+[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.co.kr/solutions/linkedin-proxy) 
 
 ## Overview
-Experience seamless scraping with Bright Data's [LinkedIn proxies](https://brightdata.com/solutions/linkedin-proxy), designed to provide precise targeting, unmatched stability, and rapid response times.
+정밀한 타겟팅, 탁월한 안정성, 빠른 응답 시간을 제공하도록 설계된 Bright Data의 [LinkedIn proxies](https://brightdata.co.kr/solutions/linkedin-proxy)로 매끄러운 スクレイピング을 경험해 보시기 바랍니다.
 
-- **100M+ proxy IPs**
-- **Sticky and rotating sessions**
-- **99.95% success rate**
-- **HTTP(S) & SOCKS5 support**
-- **Geo-location targeting (Free)**
+- **100M+ プロキシ IPs**
+- **Sticky 및 ローテーティングセッション**
+- **99.95% 성공률**
+- **HTTP(S) & SOCKS5 지원**
+- **ジオロケーション 타겟팅 (무료)**
 
 ## Key Features
-- **Global Coverage**: LinkedIn proxies available in [195 countries](https://brightdata.com/locations).
-- **Poular proxy IP locations**
-   - [**United States proxy**](https://brightdata.com/locations/united-states)
-   - [**China proxy**](https://brightdata.com/locations/cn)
-   - [**UK proxy**](https://brightdata.com/locations/gb)
-   - [**Germany proxy**](https://brightdata.com/locations/de)
-   - [**Canada proxy**](https://brightdata.com/locations/ca)
-   - [**India proxy**](https://brightdata.com/locations/in)
-- **High Success Rates**: Achieve up to 99.95% success in your scraping projects.
-- **Fast Response**: Average response time of ~0.7 seconds.
-- **Ethically Sourced**: All proxies are sourced with explicit user consent.
-- **Unlimited Concurrent Sessions**: Scale your operations without limitations.
+- **글로벌 커버리지**: [195개 국가](https://brightdata.co.kr/locations)에서 사용 가능한 LinkedIn proxies.
+- **인기 있는 プロキシ IP 위치**
+   - [**United States proxy**](https://brightdata.co.kr/locations/united-states)
+   - [**China proxy**](https://brightdata.co.kr/locations/cn)
+   - [**UK proxy**](https://brightdata.co.kr/locations/gb)
+   - [**Germany proxy**](https://brightdata.co.kr/locations/de)
+   - [**Canada proxy**](https://brightdata.co.kr/locations/ca)
+   - [**India proxy**](https://brightdata.co.kr/locations/in)
+- **높은 성공률**: スクレイピング 프로젝트에서 최대 99.95%의 성공을 달성합니다.
+- **빠른 응답**: 평균 응답 시간 약 ~0.7초입니다.
+- **윤리적으로 수집**: 모든 プロキシ는 사용자로부터 명시적인 동의를 받아 수집됩니다.
+- **무제한 동시 セッション**: 제한 없이 운영을 확장할 수 있습니다.
 
-Sign up and receive a dollar-for-dollar match on your first deposit, up to $500!
+가입하고 첫 입금 금액에 대해 최대 $500까지 1달러당 1달러 매칭 혜택을 받으시기 바랍니다!
 
 ## Getting Started with LinkedIn Proxies
-1. **Start Free Trial**: No credit card required.
-2. **Integration**: Use our APIs or Control Panel to manage IPs and configurations.
-3. **Supported Languages**: Quick start examples provided for Python, Java, C#, Node.js, and Shell.
+1. **무료 체험 시작**: 신용카드가 필요하지 않습니다.
+2. **통합**: API 또는 Control Panel을 사용하여 IP 및 구성을 관리합니다.
+3. **지원 언어**: Python, Java, C#, Node.js, Shell에 대한 빠른 시작 예제가 제공됩니다.
 
 ## Integrations
-Our LinkedIn proxies integrate with popular tools and frameworks, including:
+LinkedIn proxies는 다음을 포함한 인기 도구 및 프레임워크와 통합됩니다:
 
-- [**Puppeteer**](https://brightdata.com/integration/puppeteer)
-- [**Selenium**](https://brightdata.com/integration/selenium)
-- [**Playwright**](https://brightdata.com/integration/playwright)
-- [**AdsPower**](https://brightdata.com/integration/adspower)
-- [**MultiLogin**](https://brightdata.com/integration/multilogin)
-- [**All proxy integrations**](https://brightdata.com/integration)
+- [**Puppeteer**](https://brightdata.co.kr/integration/puppeteer)
+- [**Selenium**](https://brightdata.co.kr/integration/selenium)
+- [**Playwright**](https://brightdata.co.kr/integration/playwright)
+- [**AdsPower**](https://brightdata.co.kr/integration/adspower)
+- [**MultiLogin**](https://brightdata.co.kr/integration/multilogin)
+- [**All proxy integrations**](https://brightdata.co.kr/integration)
 
 ## Use Cases
-Explore how businesses leverage LinkedIn proxies:
+비즈니스에서 LinkedIn proxies를 활용하는 방법을 살펴보시기 바랍니다:
 
-- [**eCommerce**](https://brightdata.com/use-cases/ecommerce): Track pricing and reviews.
-- [**Social Media**](https://brightdata.com/use-cases/social-media-for-marketing): Monitor trends.
-- [**Real Estate**](https://brightdata.com/use-cases/real-estate): Gather market data.
-- [**Travel**](https://brightdata.com/use-cases/travel): Compare prices across regions.
-- [**Financial Services**](https://brightdata.com/use-cases/financial): Analyze trends securely.
+- [**eCommerce**](https://brightdata.co.kr/use-cases/ecommerce): 가격 및 리뷰를 추적합니다.
+- [**Social Media**](https://brightdata.co.kr/use-cases/social-media-for-marketing): 트렌드를 모니터링합니다.
+- [**Real Estate**](https://brightdata.co.kr/use-cases/real-estate): 시장 데이터를 수집합니다.
+- [**Travel**](https://brightdata.co.kr/use-cases/travel): 지역 간 가격을 비교합니다.
+- [**Financial Services**](https://brightdata.co.kr/use-cases/financial): 트렌드를 안전하게 분석합니다.
 
 ## FAQ
 
 ### What are the benefits of LinkedIn Proxies?
-The benefits of using LinkedIn proxies include a high level of privacy and security, faster speeds due to no sharing of bandwidth, and a lower risk of being blocked or blacklisted as the IP is not associated with any other user’s activities.
+LinkedIn proxies를 사용하면 높은 수준의 개인정보 보호 및 보안을 확보할 수 있으며, 帯域幅을 공유하지 않기 때문에 더 빠른 속도를 기대할 수 있습니다. 또한 IPアドレス가 다른 사용자의 활동과 연관되지 않으므로 차단되거나 블랙리스트에 등록될 리스크가 더 낮습니다.
 
 ### What types of plans are available? 
-Bright Data offers flexible pricing models, including:
+Bright Data는 다음을 포함한 유연한 요금 모델을 제공합니다:
 
-- **Pay-As-You-Go**: Fixed rate per GB.
-- **Subscription Plans**: Monthly, yearly, and custom options.
+- **Pay-As-You-Go**: GB당 고정 요금입니다.
+- **Subscription Plans**: 월간, 연간 및 맞춤형 옵션입니다.
 
 ### Are Bright Data's proxies compliant and safe to use?
-Bright Data’s proxies are ethically sourced, and we comply with all relevant data protection laws, including GDPR and CCPA.
+Bright Data의 プロキシ는 윤리적으로 수집되며, GDPR 및 CCPA를 포함한 관련 데이터 보호 법률을 모두 준수합니다.
 
 ### Is there dedicated support available?
-Our support team is available 24/7 to assist you. Contact us to discuss your needs and maximize the benefits of our LinkedIn proxy network.
+지원 팀이 24/7로 도움을 드립니다. 문의하셔서 요구 사항을 논의하고 LinkedIn proxy 네트워크의 이점을 최대화하시기 바랍니다.
 
-Want to scrape LinkedIn? 
-Check out Bright Data's [**LinkedIn Scraper**](https://brightdata.com/products/web-scraper/linkedin). 
+LinkedIn을 スクレイピング하고 싶으신가요? 
+Bright Data의 [**LinkedIn Scraper**](https://brightdata.co.kr/products/web-scraper/linkedin)를 확인해 보시기 바랍니다. 
